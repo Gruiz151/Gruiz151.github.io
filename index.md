@@ -1,7 +1,7 @@
 
 # George Ruiz's Portfolio
 
-Hello, I am a Computer Engineering major and I plan on graduatin in 2029
+Hello, I am a Computer Engineering major at CSUF and I plan on graduating in 2029.
 
 ## Favorite CPSC 120L Labs
 
@@ -15,4 +15,4 @@ The reason for this lab being my favorite is because of the guesing aspect and i
 
 Lab 7
 
-This lab was really difficult in my opinion because it really tested the logic of time and interperting into the coding.Althoguh it was difficutl to wrap my head around at first, seeing it come together and actually running made it all the more satisfying. In this lab we used if-statements, bool conversions, and vectors to put together code that will advise if you can or can't park in the selected time.
+This lab was really difficult in my opinion because it really tested the logic of time and interperting it into the coding.Although it was difficult to wrap my head around at first, seeing it come together and actually running made it all the more satisfying. In this lab we used if-statements, bool conversions, and vectors to put together code that will advise if you can or can't park in the selected time. 
